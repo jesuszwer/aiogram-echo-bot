@@ -1,5 +1,5 @@
 [project]
-name = "aiogram-youtub-course"
+name = "aiogram-echo-bot"
 version = "0.1.0"
 description = "Эхо-бот с кнопками"
 authors = [{ name = "jesuszwer", email = "zakianovd001@gmail.com" }]
